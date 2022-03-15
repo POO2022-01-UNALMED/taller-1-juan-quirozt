@@ -1,0 +1,1 @@
+Porque no podemos hacer commit de una carpeta vacía, cuando creamos el archivo sí se puede.
