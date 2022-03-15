@@ -1,3 +1,4 @@
 Juan Esteban Quiroz Taborda
 20 años
 Mis aspiraciones con el curso son aprender mucho y mejorar mis habilidades.
+Porque no podemos hacer commit de una carpeta vacía, cuando creamos el archivo sí se puede.
